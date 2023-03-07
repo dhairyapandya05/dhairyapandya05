@@ -29,10 +29,22 @@
 
 
 <a href="https://github.com/dhairya0512/ar-blades">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dhairya0512&repo=Resume&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dhairya0512&repo=ar-blades&theme=blue-green" />
 </a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
+<a href="https://github.com/dhairya0512/Augmented-Reality">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dhairya0512&repo=Augmented-Reality&theme=blue-green" />
+</a>
+<a href="https://github.com/dhairya0512/Groc-for-me">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dhairya0512&repo=Groc-for-me&theme=blue-green" />
+</a>
+<a href="https://github.com/dhairya0512/QR-Code-Scanner-and-Generator">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dhairya0512&repo=QR-Code-Scanner-and-Generator&theme=blue-green" />
+</a>
+<a href="https://github.com/dhairya0512/Van-Service">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dhairya0512&repo=Van-Service&theme=blue-green" />
+</a>
+<a href="https://github.com/dhairya0512/meme-app">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dhairya0512&repo=meme-app&theme=blue-green" />
 </a>
 
 <br />
