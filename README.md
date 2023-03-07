@@ -2,64 +2,6 @@
 <h1 align="center">Hi 👋, I'm Dhairya Pandya</h1>
 <h3 align="center">A passionate Mobile Application Developer from India</h3>
 
-**About me**
-
-Hey there, I'm Dhairya Pandya! I'm a passionate programmer who loves to develop mobile applications that can make people's lives easier and more enjoyable.
-
-Ever since I was a kid, I've been fascinated by the way that technology works. As I got older, that fascination turned into a love of programming. I've spent countless hours honing my skills and learning new techniques, always striving to become the best programmer I can be.Today, I specialize in mobile application development, working with platforms like iOS and Android to create apps that are intuitive, user-friendly, and innovative. I believe that mobile apps have the power to transform the way we live, work, and play, and I'm excited to be a part of that transformation.
-
-One of the things that sets me apart as a programmer is my attention to detail. I'm a perfectionist at heart, and I take great pride in ensuring that every line of code I write is clean, efficient, and effective. I'm also a strong believer in the power of collaboration. I love working with other programmers and designers to come up with creative solutions to complex problems.When I'm not busy programming, you can usually find me tinkering with my latest project, playing video games, or exploring the great outdoors. I'm always up for a challenge and I love to push myself to try new things.
-
-So if you're looking for a mobile application developer who is passionate, detail-oriented, and committed to delivering high-quality results, then look no further! I can't wait to help bring your app ideas to life.
-
-<p align="left"> <a href="https://twitter.com/dhairyapandya05" target="blank"><img src="https://img.shields.io/twitter/follow/dhairyapandya05?logo=twitter&style=for-the-badge" alt="dhairyapandya05" /></a> </p>
-
-- 🔭 I’m currently working on [AR Core, ARKit, Vuforia](https://github.com/dhapandya/ar-blades)
-
-- 🌱 I’m currently learning **Oen cv,Deep Learning**
-
-- 👯 I’m looking to collaborate on [Groc for me](https://github.com/dhairya0512/Groc-for-me)
-
-- 👨‍💻 All of my projects are available at [https://dhapandya.github.io/_resume/](https://dhapandya.github.io/_resume/)
-
-- 📝 I regularly write articles on [https://medium.com/@dhairyapandya05](https://medium.com/@dhairyapandya05)
-
-- 💬 Ask me about **Android Development, Firebase, AR Core, ARKIT, Vuforia etc**
-
-- 📫 How to reach me **https://www.linkedin.com/in/dhairyapandya/**
-
-- 📄 Know about my experiences [https://dhapandya.github.io/_resume/](https://dhapandya.github.io/_resume/)
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-- [Open CV](https://medium.com/@20ce071/open-cv-df5bb1d4cccd)
-<!-- BLOG-POST-LIST:END -->
-
-#### Top Repositories
-
-
-<a href="https://github.com/dhairya0512/ar-blades">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dhairya0512&repo=ar-blades&theme=blue-green" />
-</a>
-<a href="https://github.com/dhairya0512/Augmented-Reality">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dhairya0512&repo=Augmented-Reality&theme=blue-green" />
-</a>
-<a href="https://github.com/dhairya0512/Groc-for-me">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dhairya0512&repo=Groc-for-me&theme=blue-green" />
-</a>
-<a href="https://github.com/dhairya0512/QR-Code-Scanner-and-Generator">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dhairya0512&repo=QR-Code-Scanner-and-Generator&theme=blue-green" />
-</a>
-<a href="https://github.com/dhairya0512/Van-Service">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dhairya0512&repo=Van-Service&theme=blue-green" />
-</a>
-<a href="https://github.com/dhairya0512/meme-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dhairya0512&repo=meme-app&theme=blue-green" />
-</a>
-
-<br />
-<br />
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/dhairyapandya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhairyapandya" height="30" width="40" /></a>
