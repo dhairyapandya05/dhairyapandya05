@@ -6,13 +6,9 @@
 
 Hey there, I'm Dhairya Pandya! I'm a passionate programmer who loves to develop mobile applications that can make people's lives easier and more enjoyable.
 
-Ever since I was a kid, I've been fascinated by the way that technology works. As I got older, that fascination turned into a love of programming. I've spent countless hours honing my skills and learning new techniques, always striving to become the best programmer I can be.
+Ever since I was a kid, I've been fascinated by the way that technology works. As I got older, that fascination turned into a love of programming. I've spent countless hours honing my skills and learning new techniques, always striving to become the best programmer I can be.Today, I specialize in mobile application development, working with platforms like iOS and Android to create apps that are intuitive, user-friendly, and innovative. I believe that mobile apps have the power to transform the way we live, work, and play, and I'm excited to be a part of that transformation.
 
-Today, I specialize in mobile application development, working with platforms like iOS and Android to create apps that are intuitive, user-friendly, and innovative. I believe that mobile apps have the power to transform the way we live, work, and play, and I'm excited to be a part of that transformation.
-
-One of the things that sets me apart as a programmer is my attention to detail. I'm a perfectionist at heart, and I take great pride in ensuring that every line of code I write is clean, efficient, and effective. I'm also a strong believer in the power of collaboration. I love working with other programmers and designers to come up with creative solutions to complex problems.
-
-When I'm not busy programming, you can usually find me tinkering with my latest project, playing video games, or exploring the great outdoors. I'm always up for a challenge and I love to push myself to try new things.
+One of the things that sets me apart as a programmer is my attention to detail. I'm a perfectionist at heart, and I take great pride in ensuring that every line of code I write is clean, efficient, and effective. I'm also a strong believer in the power of collaboration. I love working with other programmers and designers to come up with creative solutions to complex problems.When I'm not busy programming, you can usually find me tinkering with my latest project, playing video games, or exploring the great outdoors. I'm always up for a challenge and I love to push myself to try new things.
 
 So if you're looking for a mobile application developer who is passionate, detail-oriented, and committed to delivering high-quality results, then look no further! I can't wait to help bring your app ideas to life.
 
