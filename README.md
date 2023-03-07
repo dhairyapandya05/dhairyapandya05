@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/dhairyapandya05" target="blank"><img src="https://img.shields.io/twitter/follow/dhairyapandya05?logo=twitter&style=for-the-badge" alt="dhairyapandya05" /></a> </p>
 
-- 🔭 I’m currently working on [AR Core,ARKit,Vuforia](https://github.com/dhapandya/ar-blades)
+- 🔭 I’m currently working on [AR Core, ARKit, Vuforia](https://github.com/dhapandya/ar-blades)
 
 - 🌱 I’m currently learning **Oen cv,Deep Learning**
 
@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@dhairyapandya05](https://medium.com/@dhairyapandya05)
 
-- 💬 Ask me about **Android Development,Firebase,AR Core,ARKIT,Vuforia**
+- 💬 Ask me about **Android Development, Firebase, AR Core, ARKIT, Vuforia etc**
 
 - 📫 How to reach me **https://www.linkedin.com/in/dhairyapandya/**
 
