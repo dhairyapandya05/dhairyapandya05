@@ -22,6 +22,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Open CV](https://medium.com/@20ce071/open-cv-df5bb1d4cccd)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
