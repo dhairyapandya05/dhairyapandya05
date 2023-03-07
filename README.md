@@ -1,7 +1,3 @@
-![logo](https://github.com/dhairya0512/dhairya0512/blob/main/Github%20Banner.jpeg)
-<h1 align="center">Hi 👋, I'm Dhairya Pandya</h1>
-<h3 align="center">A passionate Mobile Application Developer from India</h3>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/dhairyapandya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhairyapandya" height="30" width="40" /></a>
