@@ -1,3 +1,4 @@
+![logo](https://github.com/dhairya0512/dhairya0512/blob/main/Github%20Banner.jpeg)
 <h1 align="center">Hi 👋, I'm Dhairya Pandya</h1>
 <h3 align="center">A passionate Mobile Application Developer from India</h3>
 
