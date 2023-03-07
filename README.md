@@ -38,6 +38,16 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/dhairyapandya05"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="dhairyapandya05" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhairya0512&show_icons=true&theme=blue-green&locale=en&layout=compact&hide_border=true" alt="dhairya0512"/></p>
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
+  <div>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhairya0512&show_icons=true&theme=blue-green&locale=en&layout=compact&hide_border=true" alt="dhairya0512"/>
+  </div>
+  <div>
+    <img align="right" src="https://github-readme-stats.vercel.app/api?username=dhairya0512&show_icons=true&theme=blue-green&locale=en&hide_border=true" alt="dhairya0512" />
+  </div>
+</div>
+In this code, the div element with display: flex sets up a flex container for the two image divs. The flex-wrap property enables wrapping of
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=dhairya0512&show_icons=true&theme=blue-green&locale=en&hide_border=true" alt="dhairya0512" /></p>
+
+
+
