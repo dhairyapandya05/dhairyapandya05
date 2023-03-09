@@ -38,8 +38,8 @@ So if you're looking for a mobile application developer who is passionate, detai
 #### Top Repositories
 
 
-<a href="https://github.com/dhairya0512/ar-blades">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dhairya0512&repo=ar-blades&theme=blue-green" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
 </a>
 <a href="https://github.com/dhairya0512/Augmented-Reality">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dhairya0512&repo=Augmented-Reality&theme=blue-green" />
