@@ -42,19 +42,19 @@ So if you're looking for a mobile application developer who is passionate, detai
   <img align="center" src="https://github-readme-stats-liard-five-14.vercel.app/api/pin/?username=dhairya0512&repo=ar-blades&theme=blue-green" />
 </a>
 <a href="https://github.com/dhairya0512/Augmented-Reality">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dhairya0512&repo=Augmented-Reality&theme=blue-green" />
+  <img align="center" src="https://github-readme-stats-liard-five-14.vercel.app/api/pin/?username=dhairya0512&repo=Augmented-Reality&theme=blue-green" />
 </a>
 <a href="https://github.com/dhairya0512/Groc-for-me">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dhairya0512&repo=Groc-for-me&theme=blue-green" />
+  <img align="center" src="https://github-readme-stats-liard-five-14.vercel.app/api/pin/?username=dhairya0512&repo=Groc-for-me&theme=blue-green" />
 </a>
 <a href="https://github.com/dhairya0512/QR-Code-Scanner-and-Generator">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dhairya0512&repo=QR-Code-Scanner-and-Generator&theme=blue-green" />
+  <img align="center" src="https://github-readme-stats-liard-five-14.vercel.app/api/pin/?username=dhairya0512&repo=QR-Code-Scanner-and-Generator&theme=blue-green" />
 </a>
 <a href="https://github.com/dhairya0512/Van-Service">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dhairya0512&repo=Van-Service&theme=blue-green" />
+  <img align="center" src="https://github-readme-stats-liard-five-14.vercel.app/api/pin/?username=dhairya0512&repo=Van-Service&theme=blue-green" />
 </a>
 <a href="https://github.com/dhairya0512/meme-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dhairya0512&repo=meme-app&theme=blue-green" />
+  <img align="center" src="https://github-readme-stats-liard-five-14.vercel.app/api/pin/?username=dhairya0512&repo=meme-app&theme=blue-green" />
 </a>
 
 <br />
@@ -100,7 +100,7 @@ So if you're looking for a mobile application developer who is passionate, detai
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/dhairyapandya05"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="dhairyapandya05" /></a></p><br><br>
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dhairya0512&show_icons=true&theme=blue-green&locale=en&hide_border=true" alt="Dhairya's github stats" /></a> | <a href="https://github.com/dhairya0512"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhairya0512&show_icons=true&theme=blue-green&locale=en&layout=compact&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-liard-five-14.vercel.app/api?username=dhairya0512&show_icons=true&theme=blue-green&locale=en&hide_border=true" alt="Dhairya's github stats" /></a> | <a href="https://github.com/dhairya0512"><img align="center" src="https://github-readme-stats-liard-five-14.vercel.app/api/top-langs?username=dhairya0512&show_icons=true&theme=blue-green&locale=en&layout=compact&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 
