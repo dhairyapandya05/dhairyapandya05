@@ -39,7 +39,7 @@ So if you're looking for a mobile application developer who is passionate, detai
 
 
 <a href="https://github.com/dhairya0512/ar-blades">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dhairya0512&repo=ar-blades&theme=blue-green" />
+  <img align="center" src="https://github-readme-stats-liard-five-14.vercel.app/api/pin/?username=dhairya0512&repo=ar-blades&theme=blue-green" />
 </a>
 <a href="https://github.com/dhairya0512/Augmented-Reality">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dhairya0512&repo=Augmented-Reality&theme=blue-green" />
