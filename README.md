@@ -32,7 +32,7 @@ So if you're looking for a mobile application developer who is passionate, detai
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Open CV](https://medium.com/@20ce071/open-cv-df5bb1d4cccd)
+- [Deep Dive into OpenCV: A Comprehensive Guide to Computer Vision](https://medium.com/@20ce071/open-cv-df5bb1d4cccd)
 <!-- BLOG-POST-LIST:END -->
 
 #### Top Repositories
