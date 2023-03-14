@@ -1,4 +1,4 @@
-![logo](https://github.com/dhairya0512/dhairya0512/blob/main/Github%20Banner.jpeg)
+[![Harman's GitHub README](https://api.harmansandhu.tech/?username=dhairya0512)](https://github.com/Harman-Sandhu/github-readme-generator)
 <h1 align="center">Hi 👋, I'm Dhairya Pandya</h1>
 <h3 align="center">A passionate Mobile Application Developer from India</h3>
 
