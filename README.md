@@ -1,4 +1,4 @@
-[![Harman's GitHub README](https://api.harmansandhu.tech/?username=dhairya0512&avatar=true&txt=A full-stack web developer and a software engineer student)](https://github.com/Harman-Sandhu/github-readme-generator)
+[![Harman's GitHub README](https://api.harmansandhu.tech/?username=dhairya0512&avatar=true&txt=A Application Developer)](https://github.com/Harman-Sandhu/github-readme-generator)
 <h1 align="center">Hi 👋, I'm Dhairya Pandya</h1>
 <h3 align="center">A passionate Mobile Application Developer from India</h3>
 
