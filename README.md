@@ -1,4 +1,4 @@
-[![Harman's GitHub README](https://api.harmansandhu.tech/?username=dhairya0512&txt=oper&avatar=false)](https://github.com/Harman-Sandhu/github-readme-generator)
+[![Harman's GitHub README](https://api.harmansandhu.tech/?username=dhairya0512&txt=A Mobile App Developer&avatar=true)](https://github.com/Harman-Sandhu/github-readme-generator)
 <h1 align="center">Hi 👋, I'm Dhairya Pandya</h1>
 <h3 align="center">A passionate Mobile Application Developer from India</h3>
 
