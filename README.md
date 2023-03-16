@@ -1,4 +1,4 @@
-![img](http://i.imgur.com/yourfilename.png)
+![img](https://s.imgur.com/images/404/giraffeweyes.png)
 <h1 align="center">Hi 👋, I'm Dhairya Pandya</h1>
 <h3 align="center">A passionate Mobile Application Developer from India</h3>
 
