@@ -1,4 +1,4 @@
-[![Harman's GitHub README](https://api.harmansandhu.tech/?username=dhairya0512&txt=a software engineer)](https://github.com/dhairya0512)
+![logo](https://www.google.co.in/url?sa=i&url=https%3A%2F%2Fdev.to%2Fjmfayard%2Fcomment%2Fj6fo&psig=AOvVaw2oRMWDroCvMVC1oSkq1G3v&ust=1679024987542000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMiL29nF3_0CFQAAAAAdAAAAABAY)
 <h1 align="center">Hi 👋, I'm Dhairya Pandya</h1>
 <h3 align="center">A passionate Mobile Application Developer from India</h3>
 
