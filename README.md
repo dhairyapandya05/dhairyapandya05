@@ -32,7 +32,7 @@ So if you're looking for a mobile application developer who is passionate, detai
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Deep Dive into OpenCV: A Comprehensive Guide to Computer Vision](https://medium.com/@20ce071/open-cv-df5bb1d4cccd)
+- [How to install Apache Web Server on Ubuntu](https://medium.com/@dhairyapandya05/how-to-install-apache-web-server-on-ubuntu-eb21f3f966c?source=rss-ed1d686b5ebd------2)
 <!-- BLOG-POST-LIST:END -->
 
 #### Top Repositories
