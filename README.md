@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Dhairya Pandya</h1>
 <h3 align="center">A passionate Mobile Application Developer from India</h3>
 
-*About me*
+**About me**
 
 Hey there, I'm Dhairya Pandya! I'm a passionate programmer who loves to develop mobile applications that can make people's lives easier and more enjoyable.
 
