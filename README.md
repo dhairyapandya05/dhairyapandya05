@@ -1,7 +1,3 @@
-![img](https://res.cloudinary.com/practicaldev/image/fetch/s--FNil1bP5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/sykrym5sishw45qceo3s.png)
-<h1 align="center">Hi 👋, I'm Dhairya Pandya</h1>
-<h3 align="center">A passionate Mobile Application Developer from India</h3>
-
 **About me**
 
 Hey there, I'm Dhairya Pandya! I'm a passionate programmer who loves to develop mobile applications that can make people's lives easier and more enjoyable.
