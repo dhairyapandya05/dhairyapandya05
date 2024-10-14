@@ -65,8 +65,6 @@ Hi, I'm Dhairya Pandya 👋, a passionate mobile app developer working with iOS 
 # Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [How to install Apache Web Server on Ubuntu](https://medium.com/@dhairyapandya05/how-to-install-apache-web-server-on-ubuntu-eb21f3f966c?source=rss-ed1d686b5ebd------2)
-- https://dev.to/dhairyapandya/zeep-service-your-travel-partnerlow-level-design-61
-- [Low-Level Design of a Travel Service Application](https://dev.to/dhairyapandya/zeep-service-your-travel-partnerlow-level-design-61)
 <!-- BLOG-POST-LIST:END -->
 
 
