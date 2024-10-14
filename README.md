@@ -28,22 +28,20 @@ Hi, I'm Dhairya Pandya 👋, a passionate mobile app developer working with iOS 
   name: "Dhairya Pandya"
   role: "Aspiring Software Engineer"
   achievements:
-    - "GSSOC'24 Project Admin"
-    - "GSSOC'24 Mentor @JournalForge
-    - "Awarded a fellowship of Headstarters AI globally
-    - "2x LinkedIn Top Voice"
-    - "Leetcode (1912) @Knight"
-    - "GFG 4 Star"
-    - "AWS AI/ML Scholar '23"
+    - "Published application on Google PlayStore"
+    - "Leetcode (1445)"
+    - "GFG Coding Score: 531"
   skills:
-    - "React"
-    - "Next.js"
+    - "Android"
+    - "Mobile Application Development"
     - "Python"
-    - "Node.js"
+    - "Open CV"
+    - "C/C++"
+    - "Unity 3D"
   education:
-    degree: "BTech in Computer Science Specializing in Data Science"
-    university: "Bennett University"
-    CGPA: "8.34/10"
+    degree: "BTech in Computer Science"
+    university: "Charusat University"
+    CGPA: "8.79/10"
   specialization: "Frontend & Algorithm Development"
   experience: "Hackathon Top Performer"
 ```
