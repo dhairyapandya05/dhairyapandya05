@@ -87,7 +87,7 @@ Hi, I'm Dhairya Pandya 👋, a passionate mobile app developer working with iOS 
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=dhairyapandya05&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="dhairyapandya05's Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhairyapandya05&theme=dark&hide_border=true" alt="dhairyapandya05's Streak" />
+   [![GitHub Streak](https://streak-stats.demolab.com/?user=dhairyapandya05)](https://git.io/streak-stats)
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhairyapandya05&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="dhairyapandya05's Top Languages" />
 </div>
 
