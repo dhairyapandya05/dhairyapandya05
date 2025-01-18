@@ -29,7 +29,7 @@ Hi, I'm Dhairya Pandya 👋, a passionate mobile app developer working with iOS 
   role: "Aspiring Software Engineer"
   achievements:
     - "Published application on Google PlayStore"
-    - "Leetcode (1445)"
+    - "Leetcode (1543)"
     - "GFG Coding Score: 531"
   skills:
     - "Android"
