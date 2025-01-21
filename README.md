@@ -102,7 +102,7 @@ Hi, I'm Dhairya Pandya 👋, a passionate mobile app developer working with iOS 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dhairyapandya05&theme=github-compact&custom_title=My%20contribution%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  <b>Note :</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 
 
