@@ -92,7 +92,7 @@ experience:
         Optimized benchmarks over 15 iterations, reducing the 95th percentile frame timing to 265.6 ms and 
         frame overrun to -2.6 ms, enhancing UI performance.
       </p>
-      🔗 <a href="https://github.com/dhairyapandya05/Insta-QR">GitHub Repo</a> | 🎬 <a href="https://youtu.be/demo-link">Live Demo</a>
+      🔗 <a href="https://github.com/dhairyapandya05/QR_CodeScanner_and_Generater_JetpackCompose">GitHub Repo</a> | 🎬 <a href="https://youtu.be/5u7sS0bnkZs">Live Demo</a> | 📜 <a href="https://dev.to/dhairyapandya/how-am-i-4kn7">LLD</a>
     </td>
   </tr>
 
@@ -107,7 +107,7 @@ experience:
         Features Google Assistant integration for hands-free navigation, optimized image storage by 80.61%, and 
         implemented Firestore-based real-time updates.
       </p>
-      🔗 <a href="https://github.com/dhairyapandya05/Zeep-Service">GitHub Repo</a> | 🎬 <a href="https://youtu.be/demo-link">Live Demo</a>
+      🔗 <a href="https://github.com/dhairyapandya05/Van-Service">GitHub Repo</a> | 🎬 <a href="https://youtu.be/m9zD_PR5E1Q">Live Demo</a> | 📜 <a href="https://dev.to/dhairyapandya/zeep-service-your-travel-partnerlow-level-design-61">LLD</a>
     </td>
   </tr>
 
@@ -125,6 +125,7 @@ experience:
     </td>
   </tr>
 </table>
+
 
 
 
