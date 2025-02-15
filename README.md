@@ -121,7 +121,7 @@ experience:
         This project leverages <b>Unity 3D, AR Foundation, XR Development, ARCore, and ARKit</b> to visualize human anatomy in an interactive 3D AR experience. 
         Features include real-time rotation, scaling, glow effects, and realistic lighting to enhance learning.
       </p>
-      🔗 <a href="https://github.com/dhairyapandya05/Human-Anatomy-AR">GitHub Repo</a> | 🎬 <a href="https://youtu.be/demo-link">Live Demo</a>
+      🔗 <a href="https://github.com/dhairyapandya05/HumanAnatomyUsingAR">GitHub Repo</a> | 🎬 <a href="https://youtu.be/yvOksePyN5g">Live Demo</a>
     </td>
   </tr>
 </table>
