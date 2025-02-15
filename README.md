@@ -85,7 +85,7 @@ experience:
       <img src="https://dhairyapandya.vercel.app/static/media/QRCodeimg.5a23123fb00ee81e7aa8.png" alt="Untitled design (4)" style="max-width: 100%;">
     </td>
     <td width="65%">
-      <h3>📱 Insta QR</h3>
+      <h3>📱 Insta QR</h3> <img src="https://img.shields.io/badge/Tech-%20Java Kotlin-2DBA4E" alt="">
       <p>
         A QR Code Generating & Scanning application built with <b>Java, Kotlin, Jetpack Compose</b>.
         Achieved 97.4% device compatibility by revamping the project using the latest Jetpack Compose.
@@ -101,7 +101,7 @@ experience:
       <img src="https://dhairyapandya.vercel.app/static/media/zeepservicesBG.b3f16d4d6181a511f380.jpg" alt="Untitled design (4)" style="max-width: 100%;">
     </td>
     <td width="65%">
-      <h3>🚖 Zeep Service</h3>
+      <h3>🚖 Zeep Service</h3> <img src="https://img.shields.io/badge/Tech-%20Jetpack%20Compose-2DBA4E" alt="">
       <p>
         A commuting application built using <b>Java, Kotlin, Firebase, GCP, NodeJS</b>.  
         Features Google Assistant integration for hands-free navigation, optimized image storage by 80.61%, and 
@@ -116,7 +116,7 @@ experience:
       <img src="https://user-images.githubusercontent.com/75428863/230477565-b625f406-5324-4bcd-92c5-49521187ec55.jpg" alt="Untitled design (4)" style="max-width: 100%;">
     </td>
     <td width="65%">
-      <h3>🦴 Understanding Human Anatomy in Augmented Reality</h3>
+      <h3>🦴 Understanding Human Anatomy in Augmented Reality</h3> <img src="https://img.shields.io/badge/Tech-%20Unity AR Core-2DBA4E" alt="">
       <p>
         This project leverages <b>Unity 3D, AR Foundation, XR Development, ARCore, and ARKit</b> to visualize human anatomy in an interactive 3D AR experience. 
         Features include real-time rotation, scaling, glow effects, and realistic lighting to enhance learning.
