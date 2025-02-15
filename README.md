@@ -77,14 +77,67 @@ experience:
   </tr>
 </table>
 
+## 🚀 Projects
+
+<table>
+  <tr>
+    <td width="35%">
+      <img src="https://dhairyapandya.vercel.app/static/media/QRCodeimg.5a23123fb00ee81e7aa8.png" alt="Untitled design (4)" style="max-width: 100%;">
+    </td>
+    <td width="65%">
+      <h3>📱 Insta QR</h3>
+      <p>
+        A QR Code Generating & Scanning application built with <b>Java, Kotlin, Jetpack Compose</b>.
+        Achieved 97.4% device compatibility by revamping the project using the latest Jetpack Compose.
+        Optimized benchmarks over 15 iterations, reducing the 95th percentile frame timing to 265.6 ms and 
+        frame overrun to -2.6 ms, enhancing UI performance.
+      </p>
+      🔗 <a href="https://github.com/dhairyapandya05/Insta-QR">GitHub Repo</a> | 🎬 <a href="https://youtu.be/demo-link">Live Demo</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="35%">
+      <img src="https://dhairyapandya.vercel.app/static/media/zeepservicesBG.b3f16d4d6181a511f380.jpg" alt="Untitled design (4)" style="max-width: 100%;">
+    </td>
+    <td width="65%">
+      <h3>🚖 Zeep Service</h3>
+      <p>
+        A commuting application built using <b>Java, Kotlin, Firebase, GCP, NodeJS</b>.  
+        Features Google Assistant integration for hands-free navigation, optimized image storage by 80.61%, and 
+        implemented Firestore-based real-time updates.
+      </p>
+      🔗 <a href="https://github.com/dhairyapandya05/Zeep-Service">GitHub Repo</a> | 🎬 <a href="https://youtu.be/demo-link">Live Demo</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="35%">
+      <img src="https://user-images.githubusercontent.com/75428863/230477565-b625f406-5324-4bcd-92c5-49521187ec55.jpg" alt="Untitled design (4)" style="max-width: 100%;">
+    </td>
+    <td width="65%">
+      <h3>🦴 Understanding Human Anatomy in Augmented Reality</h3>
+      <p>
+        This project leverages <b>Unity 3D, AR Foundation, XR Development, ARCore, and ARKit</b> to visualize human anatomy in an interactive 3D AR experience. 
+        Features include real-time rotation, scaling, glow effects, and realistic lighting to enhance learning.
+      </p>
+      🔗 <a href="https://github.com/dhairyapandya05/Human-Anatomy-AR">GitHub Repo</a> | 🎬 <a href="https://youtu.be/demo-link">Live Demo</a>
+    </td>
+  </tr>
+</table>
+
+
 
 
 
 # Profile Statistics:
-https://img.shields.io/badge/left-right-2DBA4E
+
+![## 🚀 Projects table tr td h3📱 Insta QRh3 p A QR Code Generating   Scanning application built using bJava, Kotlin, Jetpack Composeb  Achieved 97 4% device compatibility and optimized UI performan](https://github.com/user-attachments/assets/ef28e654-7859-4962-8cf4-253c17f0272d)
+
 <div align="center">
-  [<img src="http://img.shields.io/badge/Code%20Time-1%2C200%20hrs%2045%20mins-blue" alt="Code Time" />](https://img.shields.io/badge/left-right-2DBA4E)
-  [<img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-24.7%20million%20lines%20of%20code-blue" alt="Lines of Code" />](https://img.shields.io/badge/left-right-2DBA4E)
+  <img src="http://img.shields.io/badge/Code%20Time-1%2C200%20hrs%2045%20mins-blue" alt="Code Time" />
+  <img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-24.7%20million%20lines%20of%20code-blue" alt="Lines of Code" />
+  <img src="https://img.shields.io/badge/-right-2DBA4E" alt="Lines of Code" /> 
 </div>
 
 <table style="border-collapse: collapse; border: none;">
@@ -104,7 +157,7 @@ https://img.shields.io/badge/left-right-2DBA4E
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dhairyapandya05&theme=github-compact&custom_title=My%20contribution%20Graph&hide_border=true&title_color=2DBA4E&color=2DBA4E)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
+<div>
 
 
 
