@@ -147,7 +147,7 @@ experience:
       <img src="https://github-readme-stats.vercel.app/api?username=dhairyapandya05&theme=blue-green&show_icons=true&hide_border=true&count_private=true" alt="dhairyapandya05's Stats" />
     </td>
     <td style="border: none;">
-      <img src="https://streak-stats.demolab.com?user=dhairyapandya05&theme=github-dark&border_radius=10&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+     [![GitHub Streak](github-readme-stats-dhairya0512.vercel.app?user=dhairyapandya05&theme=hacker)](https://git.io/streak-stats)
     </td>
     <td style="border: none;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhairyapandya05&theme=blue-green&show_icons=true&hide_border=true&layout=compact" alt="dhairyapandya05's Top Languages" />
