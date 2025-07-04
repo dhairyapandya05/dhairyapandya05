@@ -61,6 +61,8 @@ experience:
   <tr>
     <td>
       <img src="https://github.com/user-attachments/assets/82af47fe-c58e-4792-a0d0-181b85535171" width="200" alt="Profile Image" />
+      <img src="https://github.com/user-attachments/assets/e9441668-c1a9-4afa-a307-adee3160cc84" width="200" alt="Profile Image" />
+
     </td>
     <td>
       <h3>Welcome to My GitHub Profile! 👋</h3>
