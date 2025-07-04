@@ -59,25 +59,26 @@ experience:
 ```
 <table>
   <tr>
-    <td>
-      <img src="https://github.com/user-attachments/assets/82af47fe-c58e-4792-a0d0-181b85535171" width="200" alt="Profile Image" />
-      <img src="https://github.com/user-attachments/assets/e9441668-c1a9-4afa-a307-adee3160cc84" width="200" alt="Profile Image" />
-
+    <td style="vertical-align: top; padding-right: 20px;">
+      <img src="https://github.com/user-attachments/assets/82af47fe-c58e-4792-a0d0-181b85535171" width="200" alt="Profile Image 1" />
+      <br /><br />
+      <img src="https://github.com/user-attachments/assets/e9441668-c1a9-4afa-a307-adee3160cc84" width="200" alt="Profile Image 2" />
     </td>
-    <td>
+    <td style="vertical-align: top;">
       <h3>Welcome to My GitHub Profile! 👋</h3>
       <p>
-        Hi, I'm Dhairya Pandya, a passionate software engineer specializing in frontend and algorithm development.
+        Hi, I'm <strong>Dhairya Pandya</strong>, a passionate software engineer specializing in frontend and algorithm development.
       </p>
       <ul>
-        <li>💻 Tech Stack: Svelte, Jetpack Compose, OpenCV, Firebase</li>
-        <li>🏆 Top 0.4% on LeetCode, 4-Star Coder</li>
-        <li>🚀 Published apps on Google PlayStore</li>
-        <li>📈 GitHub Stats: 1000+ commits this year</li>
+        <li>💻 <strong>Tech Stack:</strong> Svelte, Jetpack Compose, OpenCV, Firebase</li>
+        <li>🏆 <strong>Achievements:</strong> Top 0.4% on LeetCode, 4-Star Coder</li>
+        <li>🚀 <strong>Apps:</strong> Published on Google PlayStore</li>
+        <li>📈 <strong>GitHub Stats:</strong> 1000+ commits this year</li>
       </ul>
     </td>
   </tr>
 </table>
+
 
 ## 🚀 Projects
 
